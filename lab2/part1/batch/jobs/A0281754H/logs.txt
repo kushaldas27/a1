@@ -1,0 +1,4 @@
+Processing student job in jobs/A0281754H/
+Compilation successful for jobs/A0281754H/
+Execution time for jobs/A0281754H//s2.in: 2.062 seconds
+Execution completed without errors in jobs/A0281754H/

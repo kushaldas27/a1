@@ -1,0 +1,4 @@
+Processing student job in jobs/A0183741Y/
+Compilation successful for jobs/A0183741Y/
+Execution time for jobs/A0183741Y//s1.in: 1.883 seconds
+Execution completed without errors in jobs/A0183741Y/

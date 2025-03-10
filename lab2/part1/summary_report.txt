@@ -1,0 +1,5 @@
+Summary Report
+Total jobs processed: 5
+Successful compilations: 2
+Failed compilations: 3
+Total runtime of all jobs: 4
